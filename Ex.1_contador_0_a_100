@@ -5,6 +5,10 @@ int main (){
 	
 	
 	while (X<=100){
-	printf ("%d\n", X);
+	printf ("%d\n", X); //%d Números inteiros, %s imprimiria string txt, %2f imrpimiria números quebrados 9.99.
 	X++;}
 }
+
+//#include <stdio.h> e #include <stdlib.h> são para extrair as bibliotecas necessárias, padrão na maioria dos programas em C
+
+//int main = Int quer dizer que o programa deve retornar um número inteiro para o sistema, main é o programa principal da linguagem C, sem isso ele não funciona, todo programa deve ter uma main.
