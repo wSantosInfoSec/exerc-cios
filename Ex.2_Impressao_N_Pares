@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main (){
+	int X=0;
+	
+	
+	while (X<=100){
+		if (X % 2 == 0) {
+		printf ("%d\n", X);}
+	X++;}
+}
