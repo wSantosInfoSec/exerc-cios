@@ -1,4 +1,4 @@
-#brute force
+# brute force
 
 mensagem_roubada = input("Cole aqui o texto cifrado (o lixo visual): ")
 
