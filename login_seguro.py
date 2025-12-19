@@ -1,5 +1,5 @@
 import hashlib
-#Importar a biblioteca de Hash
+# Importar a biblioteca de Hash
 
 print("--- CRIANDO CONTA ---")
 senha_cadastro = input("Crie sua senha: ")
