@@ -5,7 +5,7 @@ def encriptar(texto, chave):
         #Transforma a letra em numero (codigo ASCII)
         numero_original = ord(letra)
         
-        #Soma a chave (O "Segredo")
+        # Soma a chave (O "Segredo")
         numero_novo = numero_original + chave
         
         #Transforma o numero novo de volta em letra
